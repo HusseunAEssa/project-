@@ -7,3 +7,6 @@ This project is under the supervision of Dr. Ali Hilal, and Dr. Maher Al-Baghdad
 
 # code 
 This Python code is dedicated to detecting the presence of drones. It includes some libraries that must be downloaded before executing the code
+
+
+# I developed the project and created a web interface that allows users to upload videos or photos to detect the presence of drones. The code is in a file named "detect on browser.py"
